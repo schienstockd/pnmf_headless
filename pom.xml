@@ -34,6 +34,7 @@
 		<developer>
 			<id>schienstockd</id>
 			<name>Dominik Schienstock</name>
+			<url>https://unimelb.edu.au</url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -45,6 +46,34 @@
 			</roles>
 		</developer>
 	</developers>
+	
+	<contributors>
+		<contributor>
+			<name>Dominik Schienstock</name>
+			<url>https://unimelb.edu.au</url>
+		</contributor>
+	</contributors>
+
+	<mailingLists>
+		<mailingList>
+			<name>Image.sc Forum</name>
+			<archive>https://forum.image.sc/tags/imagej</archive>
+		</mailingList>
+	</mailingLists>
+
+	<scm>
+		<connection>scm:git:git://github.com/schienstockd/pnmf_headless</connection>
+		<developerConnection>scm:git:git@github.com:schienstockd/pnmf_headless</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/schienstockd/pnmf_headless</url>
+	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/schienstockd/pnmf_headless/issues</url>
+	</issueManagement>
+	<ciManagement>
+		<system>None</system>
+	</ciManagement>
 
 	<properties>
 		<package-name>au.edu.unimelb.imagej</package-name>
