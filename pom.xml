@@ -17,7 +17,8 @@
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>PNMF Headless</name>
-	<description>Headless version of PoissonNMF.</description>
+	<description>Headless version of PoissonNMF</description>
+	<url>https://unimelb.edu.au</url>
 	<inceptionYear>2020</inceptionYear>
 	<organization>
 		<name>University of Melbourne</name>
@@ -76,8 +77,8 @@
 	</ciManagement>
 
 	<properties>
-		<package-name>au.edu.unimelb.imagej</package-name>
-		<main-class>au.edu.unimelb.imagej.PNMFHeadless</main-class>
+		<package-name>com.mycompany.imagej</package-name>
+		<main-class>com.mycompany.GaussFiltering</main-class>
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>University of Melbourne</license.copyrightOwners>
 	</properties>
