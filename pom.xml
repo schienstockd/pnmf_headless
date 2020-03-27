@@ -78,7 +78,7 @@
 
 	<properties>
 		<package-name>com.mycompany.imagej</package-name>
-		<main-class>com.mycompany.GaussFiltering</main-class>
+		<main-class>com.mycompany.imagej.GaussFiltering</main-class>
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>University of Melbourne</license.copyrightOwners>
 	</properties>
