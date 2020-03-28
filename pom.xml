@@ -81,6 +81,8 @@
 		<main-class>com.mycompany.imagej.GaussFiltering</main-class>
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>University of Melbourne</license.copyrightOwners>
+		<maven.compiler.source>1.8</maven.compiler.source>
+    	<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<repositories>
